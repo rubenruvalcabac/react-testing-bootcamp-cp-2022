@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/capstone/static/css/main.95c76d88.css",
-    "main.js": "/capstone/static/js/main.d06d35be.js",
-    "static/js/787.af6e63b9.chunk.js": "/capstone/static/js/787.af6e63b9.chunk.js",
-    "index.html": "/capstone/index.html",
-    "main.95c76d88.css.map": "/capstone/static/css/main.95c76d88.css.map",
-    "main.d06d35be.js.map": "/capstone/static/js/main.d06d35be.js.map",
-    "787.af6e63b9.chunk.js.map": "/capstone/static/js/787.af6e63b9.chunk.js.map"
+    "main.css": "/react-testing-bootcamp-cp-2022/static/css/main.95c76d88.css",
+    "main.js": "/react-testing-bootcamp-cp-2022/static/js/main.c9ee5220.js",
+    "static/js/787.af6e63b9.chunk.js": "/react-testing-bootcamp-cp-2022/static/js/787.af6e63b9.chunk.js",
+    "index.html": "/react-testing-bootcamp-cp-2022/index.html",
+    "main.95c76d88.css.map": "/react-testing-bootcamp-cp-2022/static/css/main.95c76d88.css.map",
+    "main.c9ee5220.js.map": "/react-testing-bootcamp-cp-2022/static/js/main.c9ee5220.js.map",
+    "787.af6e63b9.chunk.js.map": "/react-testing-bootcamp-cp-2022/static/js/787.af6e63b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95c76d88.css",
-    "static/js/main.d06d35be.js"
+    "static/js/main.c9ee5220.js"
   ]
 }
